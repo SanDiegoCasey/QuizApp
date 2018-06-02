@@ -1,0 +1,29 @@
+Quiz App is Rendered to the page
+
+A title is at the top
+
+later A navigation at the top allows you to add questions
+
+A Start Button should be displayed upon clicking A question Box is rendered
+
+A question is asked 4 options are presented
+
+User clicks the item they believe is correct
+
+Upon clicking the option the item will grey out, beifly display "Sorry" in red, or display "correct" in Green and move on to the next question.
+
+A right and wrong score will be in the upper right.
+
+final score should be displayed on the last screen.
+
+option to restart quiz
+
+
+
+A footer will be at the bottom with copyright and links 
+
+
+
+
+
+

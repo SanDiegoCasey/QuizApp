@@ -1,0 +1,22 @@
+
+.container{
+  margin:auto;
+  background-color:red;
+  width:700px;
+}
+
+ul {
+  list-style-type: none;
+  margin:auto;
+}
+
+ul li {
+  display: inline;
+}
+
+.box1, .box2{
+  width:200px;
+  height: 200px;
+  background-color: blue;
+  margin:auto;
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>Aphasia Quiz App - Familiar Faces</title>
+  <link rel="stylesheet" href="index.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Bevan|Luckiest+Guy" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <div class="header-title">
+      <h1>Recognizing Familiar Faces</h1>
+    </div>
+  </header>
+  <section id="main">
+    <div id="questionBox">
+      <!-- <div class="questionLine"> -->
+        <div class="js-question">Ready to play?
+        </div>
+        <div class="js-score-right">Right: 0
+        </div>
+        <div class="js-score-wrong">Wrong: 0
+        </div>
+      <!-- </div> -->
+      <div class="js-multiple-choice">
+        <div class="button-holder">
+          <button type="button" class="startQuiz" name="button" onclick="shufflePage();">Start the Quiz!</button>
+        </div>
+      </div>
+      <div class="js-tryagain">
+      </div>
+      <div class="js-questionCountStatus">
+      </div>
+    </div>
+  </section>
+  <footer>
+    <div class="copyright">
+      Copyright © 2018 <a href="http://www.caseywhitcher.com" target="_blank">www.caseywhitcher.com</a>
+    </div>
+    <div class="contact">
+      email Casey: <a href="mailto:sandiegocasey@gmail.com">sandiegocasey@gmail.com</a>
+    </div>
+  </footer>
+  <script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script>
+    window.jQuery || document.write('<script src="jquery-3.3.1.min.js"><\/script>');
+  </script>
+<script src="index.js"></script>
+</body>
+
+</html>
