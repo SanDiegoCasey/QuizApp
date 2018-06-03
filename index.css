@@ -14,7 +14,7 @@ body {
 /*-------------------- HEADER -----------------*/
 
 header {
-  background-color: #eee2dc;
+  background-color: #fffffa;
   max-width: 100%;
   margin-top: 0px;
   color: #123c69;
@@ -55,7 +55,7 @@ h1 {
 
 .js-score-right {
   color:green;
-  font-size:14px;
+  font-size:16px;
   font-family:sans-serif;
   min-width: 100px;
   float: right;
@@ -63,8 +63,8 @@ h1 {
 }
 
 .js-score-wrong {
-  color:red;
-  font-size:14px;
+  color:#710000;
+  font-size:16px;
   font-family: sans-serif;
   min-width: 100px;
   float:right;
@@ -85,7 +85,7 @@ h1 {
 }
 
 #questionBox{
-  background-color: #eee2dc;
+  background-color: #fffffa;
   border-radius: 10px;
   padding: 25px;
   color: #ac3b61;
@@ -295,7 +295,7 @@ footer a:visited {
 }
 
 #popquestionBox{
-  background-color: #eee2dc;
+  background-color: #fffffa;
   border-radius: 10px;
   padding: 10px;
   color: #ac3b61;
