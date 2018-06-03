@@ -10,7 +10,7 @@ A question is asked 4 options are presented
 
 User clicks the item they believe is correct
 
-Upon clicking the option the item will grey out, beifly display "Sorry" in red, or display "correct" in Green and move on to the next question.
+Upon clicking the option the item will grey out, briefly display "Sorry" in red, or display "correct" in Green and move on to the next question.
 
 A right and wrong score will be in the upper right.
 
@@ -20,10 +20,4 @@ option to restart quiz
 
 
 
-A footer will be at the bottom with copyright and links 
-
-
-
-
-
-
+A footer will be at the bottom with copyright and links

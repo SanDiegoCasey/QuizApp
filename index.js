@@ -1,5 +1,5 @@
 function popFunction() {
-  var newWin = window.open('http://www.caseywhitcher.com/projects/familiarfaces/popup.html', 'example', 'width=450,height=350');
+  var newWin = window.open('popup.html', 'example', 'width=450,height=350');
 }
 
 function getRandomItems(fullArray, items) {
